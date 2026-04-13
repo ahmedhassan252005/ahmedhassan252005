@@ -18,9 +18,6 @@
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,postgres,redis,docker" height="65" />
-</div>
-
-<div align="center">
 
 ⭐ Backend Specialist
 ⚡ Scalable System Architect
@@ -29,6 +26,38 @@
 🌍 Open to Remote Opportunities
 
 </div>
+
+---
+
+# 🚀 Who I Am
+
+* 🎓 Certified Full-Stack Developer — Hsoub Academy
+* ⚙️ Backend Architecture & System Design
+* 🔐 Security & Performance Optimization
+* 🧠 Clean & Scalable Systems
+* 🌍 Open to Remote & Freelance Opportunities
+
+---
+
+# 🧠 About Me
+
+* 💻 Node.js | Nest.js | TypeScript | Next.js
+* 🔒 Secure backend systems
+* ⚡ Scalable REST APIs
+* 🗄️ Database architecture
+* 🚀 Performance optimization
+* 🧱 Production-ready systems
+
+---
+
+# 💡 What I Build
+
+* 🚀 Scalable Backend Systems
+* 🔐 Authentication Systems
+* ⚡ High-Performance APIs
+* 🗄️ Database Applications
+* 🌐 Real-time Systems
+* 📦 Production-ready Apps
 
 ---
 
@@ -44,16 +73,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
-
----
-
-# 🧠 About Me
-
-* ⚙️ Scalable Backend Architecture
-* 🔐 Security & Performance Optimization
-* 🧱 Clean Architecture
-* 🚀 Production-Ready Applications
-* 🌍 Remote & Freelance Opportunities
 
 ---
 
@@ -101,6 +120,16 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+# 🧱 Engineering Principles
+
+* Clean Architecture
+* Security-first
+* Scalable systems
+* Maintainable code
+* Production mindset
 
 ---
 
