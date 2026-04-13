@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=70&section=header&text=👋%20Zen%20Allaham&fontSize=28&fontColor=ffffff&animation=scaleIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=70&section=header&text=My Name is%20Zen%20Allaham&fontSize=28&fontColor=ffffff&animation=scaleIn"/>
 
 </div>
 
