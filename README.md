@@ -48,13 +48,13 @@
 
 </div>
 
-✔ Scalable Backend Systems (Node.js / NestJS)  
-✔ RESTful APIs with clean architecture  
-✔ Authentication & Authorization systems (JWT, sessions, OAuth basics)  
-✔ Database-driven applications (SQL & NoSQL)  
-✔ Real-time systems (WebSockets, notifications)  
-✔ Performance-optimized backend services  
-✔ Modern full-stack applications when needed  
+- Scalable Backend Systems (Node.js / NestJS)  
+- RESTful APIs with clean architecture  
+- Authentication & Authorization systems (JWT, sessions, OAuth basics)  
+- Database-driven applications (SQL & NoSQL)  
+- Real-time systems (WebSockets, notifications)  
+- Performance-optimized backend services  
+- Modern full-stack applications when needed  
 
 ---
 
@@ -64,11 +64,11 @@
 
 </div>
 
-✔ Clean Architecture & modular design  
-✔ Security-first backend development  
-✔ Scalability & performance optimization  
-✔ Maintainable and readable code structure  
-✔ Production-level engineering mindset  
+- Clean Architecture & modular design  
+- Security-first backend development  
+- Scalability & performance optimization  
+- Maintainable and readable code structure  
+- Production-level engineering mindset  
 
 ---
 
@@ -78,13 +78,14 @@
 
 </div>
 
-💻 Specialized in Node.js, Nest.js, TypeScript, Next.js, React, PHP, Laravel, and Databases  
-🔒 Build secure backend systems (JWT, authentication, authorization, hashing, rate limiting)  
-⚡ Design and develop scalable REST APIs  
-🗄️ Strong experience in relational and NoSQL database design  
-🚀 Focused on backend performance, scalability, and clean architecture  
-🧱 I build real production-ready systems, not just simple demo apps  
+- 💻 Specialized in Node.js, Nest.js, TypeScript, Next.js, React, PHP, Laravel, and Databases  
+- 🔒 Build secure backend systems (JWT, authentication, authorization, hashing, rate limiting)  
+- ⚡ Design and develop scalable REST APIs  
+- 🗄️ Strong experience in relational and NoSQL database design  
+- 🚀 Focused on backend performance, scalability, and clean architecture  
+- 🧱 I build real production-ready systems, not just simple demo apps  
 
+---
 ---
 
 # 🛠️ Tech Stack
