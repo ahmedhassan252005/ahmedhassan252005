@@ -27,9 +27,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:007D9C&height=140&section=header&text=GO&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00ADD8,100:007D9C&height=130&section=header&text=GO&fontSize=60&fontColor=ffffff"/>
 
-### 🚀 High-Performance Backend
+### 🚀 High-Performance Backend with Go
 
 </div>
 
