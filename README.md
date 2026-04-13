@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C2FF,100:4facfe&height=70&section=header&text=%20Zen%20Allaham&fontSize=30&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C2FF,100:4facfe&height=70&section=header&text=%20Zen%20Allaham&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
