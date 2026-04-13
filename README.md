@@ -39,9 +39,9 @@
 
 ---
 
-# 🚀 Who I Am
-
 <div align="center">
+
+# 🚀 Who I Am
 
 I’m a **Backend Engineer** focused on building **secure, scalable, and production-ready systems**.
 
@@ -53,6 +53,7 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 - 🚀 Production Systems  
 - 🌍 Remote Opportunities  
 
+---
 ---
 # 🧠 About Me
 
