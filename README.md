@@ -20,8 +20,8 @@
 
 ⭐ **Backend Specialist**
 ⚡ **Scalable System Architect**
-🔐 **Security‑Focused Engineer**
-🚀 **Production‑Ready Builder**
+🔐 **Security-Focused Engineer**
+🚀 **Production-Ready Builder**
 🌍 **Open to Remote Opportunities**
 
 </div>
@@ -39,12 +39,12 @@
 * ⚙️ Scalable Backend Architecture
 * 🔐 Security & Performance Optimization
 * 🧱 Clean Architecture Systems
-* 🚀 Production‑Ready Applications
+* 🚀 Production-Ready Applications
 * 🌍 Remote & Freelance Opportunities
 
 ### 🎓 Certification
 
-* 🎓 Certified Full‑Stack Developer — Hsoub Academy
+* 🎓 Certified Full-Stack Developer — Hsoub Academy
 
 </td>
 
@@ -64,9 +64,9 @@
 
 🚀 Scalable Backend Systems
 🔐 Authentication Systems
-⚡ High‑Performance APIs
+⚡ High-Performance APIs
 🗄️ Database Architectures
-🌐 Real‑Time Applications
+🌐 Real-Time Applications
 📦 Production Systems
 
 </div>
@@ -127,6 +127,14 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 # 🧠 Engineering Principles
 
 <div align="center">
@@ -172,7 +180,7 @@
 
 # ⚡ Engineering Philosophy
 
-### "I build backend systems that scale, perform, and survive real‑world production load."
+### "I build backend systems that scale, perform, and survive real-world production load."
 
 </div>
 
