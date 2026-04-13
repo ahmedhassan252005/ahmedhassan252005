@@ -8,11 +8,8 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=70&section=header&text=👋%20Zen%20Allaham&fontSize=28&fontColor=ffffff&animation=scaleIn"/>
 
 </div>
-### 👋 Software Engineer • Backend Specialist • System Design
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=Node.js+%7C+NestJS;Scalable+Backend+Systems;Clean+Architecture;Production+Ready+Backend" />
 
-</div>
 
 ### 🚀 Software Engineer | Back-End Specialist | Building scalable, production-ready systems
 
