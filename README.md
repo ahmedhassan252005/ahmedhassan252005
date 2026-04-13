@@ -42,6 +42,9 @@
 
 <br/>
 
+<div align="center">
+
+
 ### 🧠 Backend & Architecture
 
 Node.js • NestJS • Microservices • System Design • Scalable Architecture
