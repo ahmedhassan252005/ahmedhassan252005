@@ -81,6 +81,7 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 </table>
 
 ---
+<div align="center">
 
 # 💡 What I Build
 
