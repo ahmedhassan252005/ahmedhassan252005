@@ -42,51 +42,19 @@
 </div>
 
 ---
-
-<div align="center">
-
-# 🚀 Who I Am
-
-I’m a **Software Engineer specialized in Back-End Development**, focused on building **secure, scalable, and high-performance backend systems** using modern technologies like **Node.js and NestJS**.
-
-</div>
-
-- 🎓 Certified Full-Stack Developer — Hsoub Academy  
-- ⚙️ Specialized in Back-End Architecture, API Development, and System Design  
-- 🔐 Strong focus on security, authentication, and performance optimization  
-- 🧠 Passionate about designing clean and scalable backend systems  
-- 🌍 Open to remote work, freelancing, and collaborations  
-
----
----
-<div align="center">
-
-# 🧠 About Me
-
-</div>
-
-- 💻 Node.js | NestJS | TypeScript  
-- ⚡ High-performance APIs  
-- 🗄️ Database Architecture  
-- 🔐 Authentication Systems  
-- 🚀 Production-ready systems  
-- ☁️ Cloud & DevOps mindset  
-
----
-
 <div align="center">
 
 # 💡 What I Build
 
 </div>
 
-- 🚀 Scalable Backend Systems  
-- 🔐 Authentication Systems  
-- ⚡ REST APIs  
-- 🗄️ Database Applications  
-- 🌐 Real-time Systems  
-- 📦 Production-ready Apps  
-- 🔄 Microservices Architecture  
+✔ Scalable Backend Systems (Node.js / NestJS)  
+✔ RESTful APIs with clean architecture  
+✔ Authentication & Authorization systems (JWT, sessions, OAuth basics)  
+✔ Database-driven applications (SQL & NoSQL)  
+✔ Real-time systems (WebSockets, notifications)  
+✔ Performance-optimized backend services  
+✔ Modern full-stack applications when needed  
 
 ---
 
@@ -96,12 +64,26 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 </div>
 
-- Clean Architecture  
-- Security-first  
-- Scalable systems  
-- Maintainable code  
-- Production mindset  
-- Performance-first  
+✔ Clean Architecture & modular design  
+✔ Security-first backend development  
+✔ Scalability & performance optimization  
+✔ Maintainable and readable code structure  
+✔ Production-level engineering mindset  
+
+---
+
+<div align="center">
+
+# 🧠 About Me
+
+</div>
+
+💻 Specialized in Node.js, Nest.js, TypeScript, Next.js, React, PHP, Laravel, and Databases  
+🔒 Build secure backend systems (JWT, authentication, authorization, hashing, rate limiting)  
+⚡ Design and develop scalable REST APIs  
+🗄️ Strong experience in relational and NoSQL database design  
+🚀 Focused on backend performance, scalability, and clean architecture  
+🧱 I build real production-ready systems, not just simple demo apps  
 
 ---
 
