@@ -16,7 +16,6 @@ Software Engineer | Back-End Specialist | Building scalable, production-ready sy
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ZenZN99&theme=algolia&no-frame=true&row=1" />
 </p>
 
 ---
@@ -115,7 +114,6 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 # 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenZN99&layout=compact&theme=tokyonight" />
 </p>
 
 ---
