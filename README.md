@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff" />
 
 <div align="center">
-
+  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C2FF,100:4facfe&height=70&section=header&text=%20Zen%20Allaham&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=80&section=header&text=👋%20Zen%20Allaham&fontSize=32&fontColor=ffffff"/>
 
 </div>
 
