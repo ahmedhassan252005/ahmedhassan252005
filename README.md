@@ -1,12 +1,13 @@
 <!-- Modern Professional Banner -->
 
+<!-- Main Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff" />
 
 <div align="center">
-  
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=80&section=header&text=👋%20Zen%20Allaham&fontSize=32&fontColor=ffffff"/>
+### 👋 Software Engineer • Backend Specialist • System Design
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=500&lines=Node.js+%7C+NestJS;Scalable+Backend+Systems;Clean+Architecture;Production+Ready+Backend" />
 
 </div>
 
