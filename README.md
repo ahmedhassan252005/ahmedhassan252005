@@ -1,12 +1,14 @@
 <!-- Minimal Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Zen%20Allaham&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Zen%20Allaham&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
 <div align="center">
 
 # 👋 Zen Allaham
 
 ### 🚀 Backend Engineer | Scalable Systems Architect
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Node.js+%7C+NestJS+Specialist;Scalable+Backend+Systems;Production+Ready+Architecture" />
 
 </div>
 
@@ -15,9 +17,7 @@
 # ⚡ Core Strengths
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,postgres,redis,docker" height="70" />
-
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,postgres,redis,docker" height="65" />
 </div>
 
 <div align="center">
@@ -26,6 +26,22 @@
 ⚡ Scalable System Architect
 🔐 Security-Focused Engineer
 🚀 Production-Ready Builder
+🌍 Open to Remote Opportunities
+
+</div>
+
+---
+
+# 🛠️ Core Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
@@ -35,27 +51,27 @@
 
 * ⚙️ Scalable Backend Architecture
 * 🔐 Security & Performance Optimization
-* 🧱 Clean Architecture Systems
+* 🧱 Clean Architecture
 * 🚀 Production-Ready Applications
-* 🌍 Open to Remote Opportunities
+* 🌍 Remote & Freelance Opportunities
 
 ---
 
 # 🛠️ Tech Stack
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,bun,nest,express,go,php,laravel,mongodb,redis,postgres,mysql" height="55" />
 </p>
 
-## 💻 Frontend
+### 💻 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,redux,astro" height="55" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,redux" height="55" />
 </p>
 
-## ☁️ DevOps & Tools
+### ☁️ Dev Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,sequelize,vercel,cloudflare" height="55" />
@@ -66,8 +82,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=tokyonight" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=tokyonight" />
 </p>
 
 ---
@@ -108,7 +124,7 @@
 
 <div align="center">
 
-⚡ "I build backend systems that scale and survive production."
+⚡ "I build backend systems that scale, perform, and survive production."
 
 </div>
 
