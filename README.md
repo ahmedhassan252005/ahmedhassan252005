@@ -89,7 +89,9 @@
 <div align="center">
   
 # 🛠️ Tech Stack
+
 </div>
+
 ## ⚙️ Backend
 
 <div align="center">
