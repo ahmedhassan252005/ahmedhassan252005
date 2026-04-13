@@ -1,6 +1,6 @@
 <!-- Modern Professional Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=header&text=Zen%20Allaham&fontSize=42&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff" />
 
 <div align="center">
 
@@ -8,11 +8,11 @@
 
 ### 🚀 Backend Engineer • Scalable Systems Architect • System Design
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225833247-5d4d0c8b-2a0c-4e9e-9c8f-2a4d5b7d9f8d.gif" width="450"/>
+<img src="https://user-images.githubusercontent.com/74038190/225833247-5d4d0c8b-2a0c-4e9e-9c8f-2a4d5b7d9f8d.gif" width="420"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,postgres,redis,docker,kafka,graphql" height="70"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,postgres,redis,docker,kafka,graphql" height="65"/>
 
 ### 🚀 Node.js • NestJS • Microservices • System Design • Scalable Architecture
 <p>
@@ -90,25 +90,25 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 ## ⚙️ Backend
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,php,laravel,express,graphql" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,go,php,laravel,express,graphql" height="50"/>
 </div>
 
 ## 🗄️ Database
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma" height="55"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,prisma" height="50"/>
 </div>
 
 ## ☁️ DevOps & Cloud
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,cloudflare,vercel" height="55"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,cloudflare,vercel" height="50"/>
 </div>
 
 ## 🧰 Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux,bash" height="50"/>
 </div>
 
 ---
@@ -116,8 +116,8 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=tokyonight" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=tokyonight" />
 </p>
 
 ---
@@ -164,4 +164,4 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer"/>
