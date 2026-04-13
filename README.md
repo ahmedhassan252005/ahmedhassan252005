@@ -20,20 +20,27 @@
 
 </div>
 
----
-# ⚡ Core Strengths
+---# ⚡ Core Strengths
 
 <div align="center">
 
-### 🚀 Go (High-Performance Backend)
+### 🚀 Go — High-Performance Backend
 
-<img src="https://skillicons.dev/icons?i=go" height="90"/>
+<img src="https://skillicons.dev/icons?i=go" height="95"/>
 
 <br/>
 
+### ⚡ Other Core Technologies
+
 <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,postgres,redis,docker,kafka,graphql" height="65"/>
 
-### 🚀 Node.js • NestJS • Microservices • System Design • Scalable Architecture
+<br/>
+
+### 🧠 Backend & Architecture
+
+Node.js • NestJS • Microservices • System Design • Scalable Architecture
+
+<br/>
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -47,6 +54,8 @@
 </p>
 
 </div>
+
+---
 
 ---
 
