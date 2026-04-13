@@ -19,8 +19,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/225833247-5d4d0c8b-2a0c-4e9e-9c8f-2a4d5b7d9f8d.gif" width="420"/>
 
 </div>
+<div align="center">
 
----# ⚡ Core Strengths
+# ⚡ Core Strengths
+
+</div>
 
 <div align="center">
 
