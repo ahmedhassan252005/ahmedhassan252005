@@ -6,7 +6,15 @@
 
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=300&lines=Zen+Allaham" />
+<h1>
+  👋 
+  <span style="background: linear-gradient(90deg,#00C2FF,#4facfe,#00f2fe);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;">
+  Zen Allaham
+  </span>
+</h1>
 
 </div>
 
