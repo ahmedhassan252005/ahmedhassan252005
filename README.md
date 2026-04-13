@@ -86,8 +86,11 @@
 - 🧱 I build real production-ready systems, not just simple demo apps  
 
 ---
-
+<div align="center">
+  
 # 🛠️ Tech Stack
+
+</div>
 
 ## ⚙️ Backend
 
