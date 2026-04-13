@@ -40,8 +40,11 @@
 ---
 
 # 🚀 Who I Am
+
 <div align="center">
+
 I’m a **Backend Engineer** focused on building **secure, scalable, and production-ready systems**.
+
 </div>
 
 - ⚙️ Backend Architecture  
@@ -49,8 +52,8 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 - 🧠 Clean Architecture  
 - 🚀 Production Systems  
 - 🌍 Remote Opportunities  
----
 
+---
 # 🧠 About Me
 
 - 💻 Node.js | NestJS | TypeScript  
