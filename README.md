@@ -14,6 +14,20 @@
 
 ---
 
+# 🏆 Highlights
+
+<div align="center">
+
+⭐ **Backend Specialist**
+⚡ **Scalable System Architect**
+🔐 **Security‑Focused Engineer**
+🚀 **Production‑Ready Builder**
+🌍 **Open to Remote Opportunities**
+
+</div>
+
+---
+
 # 🧠 About Me
 
 <table align="center">
@@ -25,12 +39,12 @@
 * ⚙️ Scalable Backend Architecture
 * 🔐 Security & Performance Optimization
 * 🧱 Clean Architecture Systems
-* 🚀 Production-Ready Applications
+* 🚀 Production‑Ready Applications
 * 🌍 Remote & Freelance Opportunities
 
 ### 🎓 Certification
 
-* 🎓 Certified Full-Stack Developer — Hsoub Academy
+* 🎓 Certified Full‑Stack Developer — Hsoub Academy
 
 </td>
 
@@ -50,9 +64,9 @@
 
 🚀 Scalable Backend Systems
 🔐 Authentication Systems
-⚡ High-Performance APIs
+⚡ High‑Performance APIs
 🗄️ Database Architectures
-🌐 Real-Time Applications
+🌐 Real‑Time Applications
 📦 Production Systems
 
 </div>
@@ -158,7 +172,7 @@
 
 # ⚡ Engineering Philosophy
 
-### "I build backend systems that scale, perform, and survive real-world production load."
+### "I build backend systems that scale, perform, and survive real‑world production load."
 
 </div>
 
