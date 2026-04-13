@@ -9,10 +9,10 @@
 
 </div>
 
-
+<div align="center">
 
 ### 🚀 Software Engineer | Back-End Specialist | Building scalable, production-ready systems
-<div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Microservices+Architecture;High+Performance+Systems;Production+Ready+Backend" />
 
 <br/>
