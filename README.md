@@ -38,7 +38,7 @@
 </div>
 
 ---
-
+<div align="center">
 # 🚀 Who I Am
 
 I’m a **Backend Engineer** focused on building **secure, scalable, and production-ready systems**.
@@ -48,7 +48,7 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 - 🧠 Clean Architecture  
 - 🚀 Production Systems  
 - 🌍 Remote Opportunities  
-
+</div>
 ---
 
 # 🧠 About Me
@@ -142,9 +142,6 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 
 <div align="center">
 
-<a href="https://github.com/ZenZN99">
-<img src="https://img.shields.io/badge/GitHub-ZenZN99-181717?style=for-the-badge&logo=github"/>
-</a>
 
 <a href="https://www.linkedin.com/in/zen-allaham-789907370/">
 <img src="https://img.shields.io/badge/LinkedIn-Zen%20Allaham-0A66C2?style=for-the-badge&logo=linkedin"/>
