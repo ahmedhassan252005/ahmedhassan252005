@@ -57,6 +57,29 @@ Node.js • NestJS • Microservices • System Design • Scalable Architecture
 
 ---
 
+<table>
+<tr>
+<td width="60%">
+
+### 🚀 Who I Am
+
+I’m a **Software Engineer specialized in Back-End Development**, focused on building **secure, scalable, and high-performance backend systems** using modern technologies like **Node.js and NestJS**.
+
+- 🎓 Certified Full-Stack Developer — Hsoub Academy  
+- ⚙️ Specialized in **Back-End Architecture, API Development, and System Design**  
+- 🔐 Strong focus on **security, authentication, and performance optimization**  
+- 🧠 Passionate about designing **clean and scalable backend systems**  
+- 🌍 Open to **remote work, freelancing, and collaborations**
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Coding" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 # 💡 What I Build
