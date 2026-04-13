@@ -1,24 +1,34 @@
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=250&section=header&text=Zen%20Allaham&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=320&section=header&text=Zen%20Allaham&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
 
-# Hi, I'm Zen Allaham <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+# 👋 Hi, I'm Zen Allaham
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Scalable+Systems+Architect;Production-Ready+Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Scalable+Systems+Architect;Production-Ready+Backend+Developer;Clean+Architecture+Enthusiast" />
 
-Software Engineer | Back-End Specialist | Building scalable, production-ready systems
+### 🚀 Software Engineer | Backend Specialist | System Architect
 
 </div>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Highlights
 
-<p align="center">
-</p>
+<div align="center">
+
+⭐ Backend Specialist
+⚡ Scalable System Architect
+🔐 Security-Focused Engineer
+🚀 Production-Ready Builder
+🌍 Open to Remote Opportunities
+
+</div>
 
 ---
+
+# 🛠️ Core Technologies
 
 <div align="center">
 
@@ -29,31 +39,35 @@ Software Engineer | Back-End Specialist | Building scalable, production-ready sy
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Databases-2CA2F0?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
 
 ---
 
+# 🚀 About Me
+
 <table align="center">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-### 🚀 Who I Am
+### 🧠 Backend Engineer Focused On
 
-I’m a **Software Engineer specialized in Back-End Development**, focused on building **secure, scalable, and high-performance backend systems** using modern technologies.
+* ⚙️ Scalable Backend Architecture
+* 🔐 Security & Performance Optimization
+* 🧱 Clean Architecture Systems
+* 🚀 Production-Ready Applications
+* 🌍 Remote & Freelance Projects
 
-- 🎓 Certified Full-Stack Developer — Hsoub Academy  
-- ⚙️ Back-End Architecture & System Design  
-- 🔐 Security & Performance Optimization  
-- 🧠 Clean & Scalable Systems  
-- 🌍 Open to remote & freelance opportunities  
+### 🎓 Certifications
+
+* 🎓 Certified Full-Stack Developer — Hsoub Academy
 
 </td>
 
-<td width="40%" align="center">
+<td width="45%" align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" />
 
 </td>
 </tr>
@@ -61,35 +75,39 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 ---
 
-# 🧠 About Me
+# 💡 What I Build
 
-- 💻 Node.js | Nest.js | TypeScript | Next.js | React  
-- 🔒 Secure backend systems  
-- ⚡ Scalable REST APIs  
-- 🗄️ Database architecture  
-- 🚀 Performance optimization  
-- 🧱 Production-ready systems  
+<div align="center">
+
+🚀 Scalable Backend Systems
+🔐 Authentication Systems
+⚡ High-Performance APIs
+🗄️ Database Architectures
+🌐 Real-Time Applications
+📦 Production Systems
+
+</div>
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Front-End
+## 💻 Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,redux,astro" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,redux,astro" height="60" />
 </p>
 
-### ⚙️ Back-End
+## ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,bun,nest,express,go,php,laravel,mongodb,redis,postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,nest,express,go,php,laravel,mongodb,redis,postgres,mysql" height="60" />
 </p>
 
-### ☁ Dev Tools & Cloud
+## ☁️ DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,sequelize,vercel,cloudflare" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,sequelize,vercel,cloudflare" height="60" />
 </p>
 
 ---
@@ -97,8 +115,8 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZenZN99&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenZN99&theme=tokyonight" />
 </p>
 
 ---
@@ -111,10 +129,18 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 ---
 
-# 📊 Most Used Languages
+# 🧠 Engineering Principles
 
-<p align="center">
-</p>
+<div align="center">
+
+🧱 Clean Architecture
+🔐 Security First
+⚡ Performance Focused
+📈 Scalable Systems
+🧠 Maintainable Code
+🚀 Production Mindset
+
+</div>
 
 ---
 
@@ -126,53 +152,38 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 ---
 
-# 🌟 What I Build
-
-- Scalable Backend Systems  
-- REST APIs  
-- Authentication Systems  
-- Database Applications  
-- Real-time Systems  
-- Production-ready Apps  
-
----
-
-# 🧱 Engineering Principles
-
-- Clean Architecture  
-- Security-first  
-- Scalable systems  
-- Maintainable code  
-- Production mindset  
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
 <a href="https://github.com/ZenZN99">
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
 </a>
 
 <a href="mailto:zenallaham09@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60"/>
 </a>
 
 <a href="https://www.linkedin.com/in/zen-allaham-789907370/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
 </p>
 
 ---
 
+# 👁️ Profile Views
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ZenZN99&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=ZenZN99&color=00C2FF&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
 <div align="center">
 
-⚡ **"I build backend systems that scale, perform, and survive real-world production load."**
+# ⚡ Engineering Philosophy
+
+### "I build backend systems that scale, perform, and survive real-world production load."
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
