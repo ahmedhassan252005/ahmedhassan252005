@@ -43,7 +43,7 @@
 
 # 🚀 Who I Am
 
-I’m a **Backend Engineer** focused on building **secure, scalable, and production-ready systems**.
+I’m a **Software Engineer specialized in Back-End Development**, focused on building **secure, scalable, and high-performance backend systems** using modern technologies like **Node.js and NestJS**.
 
 </div>
 
