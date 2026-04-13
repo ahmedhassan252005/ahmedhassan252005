@@ -60,8 +60,12 @@ Node.js • NestJS • Microservices • System Design • Scalable Architecture
 <table>
 <tr>
 <td width="60%">
+  
+<div align="center">
 
 ### 🚀 Who I Am
+
+</div>
 
 I’m a **Software Engineer specialized in Back-End Development**, focused on building **secure, scalable, and high-performance backend systems** using modern technologies like **Node.js and NestJS**.
 
