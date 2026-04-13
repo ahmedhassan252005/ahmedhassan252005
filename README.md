@@ -6,15 +6,7 @@
 
 <div align="center">
 
-<h1>
-  👋 
-  <span style="background: linear-gradient(90deg,#00C2FF,#4facfe,#00f2fe);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-weight: bold;">
-  Zen Allaham
-  </span>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C2FF,100:4facfe&height=70&section=header&text=👋%20Zen%20Allaham&fontSize=30&fontColor=ffffff&animation=twinkling"/>
 
 </div>
 
