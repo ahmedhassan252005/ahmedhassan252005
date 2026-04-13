@@ -47,11 +47,11 @@ I’m a **Software Engineer specialized in Back-End Development**, focused on bu
 
 </div>
 
-- ⚙️ Backend Architecture  
-- 🔐 Security & Performance  
-- 🧠 Clean Architecture  
-- 🚀 Production Systems  
-- 🌍 Remote Opportunities  
+- 🎓 Certified Full-Stack Developer — Hsoub Academy  
+- ⚙️ Specialized in Back-End Architecture, API Development, and System Design  
+- 🔐 Strong focus on security, authentication, and performance optimization  
+- 🧠 Passionate about designing clean and scalable backend systems  
+- 🌍 Open to remote work, freelancing, and collaborations  
 
 ---
 ---
