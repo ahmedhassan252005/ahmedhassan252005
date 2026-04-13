@@ -3,11 +3,10 @@
 <!-- Main Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header&text=Zen%20Allaham&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f2027,100:2c5364&height=70&section=header&text=My%20Name%20is%20Zen%20Allaham&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
+</div> -->
 
 <div align="center">
 
