@@ -55,8 +55,10 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 
 ---
 ---
+<div align="center">
+  
 # 🧠 About Me
-
+</div>
 - 💻 Node.js | NestJS | TypeScript  
 - ⚡ High-performance APIs  
 - 🗄️ Database Architecture  
@@ -65,9 +67,10 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 - ☁️ Cloud & DevOps mindset  
 
 ---
+<div align="center">
 
 # 💡 What I Build
-
+</div>
 - 🚀 Scalable Backend Systems  
 - 🔐 Authentication Systems  
 - ⚡ REST APIs  
@@ -78,8 +81,9 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 
 ---
 
+<div align="center">
 # 🧱 Engineering Principles
-
+</div>
 - Clean Architecture  
 - Security-first  
 - Scalable systems  
@@ -88,7 +92,7 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 - Performance-first  
 
 ---
-
+<div align="center">
 # 🛠️ Tech Stack
 
 ## ⚙️ Backend
@@ -116,6 +120,7 @@ I’m a **Backend Engineer** focused on building **secure, scalable, and product
 </div>
 
 ---
+</div>
 
 # 📊 GitHub Stats
 
