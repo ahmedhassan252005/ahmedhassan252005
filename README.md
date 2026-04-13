@@ -17,13 +17,16 @@
 # ⚡ Core Strengths
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,postgres,redis,docker" height="65" />
 
-⭐ Backend Specialist
-⚡ Scalable System Architect
-🔐 Security-Focused Engineer
-🚀 Production-Ready Builder
-🌍 Open to Remote Opportunities
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,typescript,postgres,redis,docker" height="65" />
+
+### 🚀 Node.js • Next.js • NestJS • Scalable Backend Systems
+
+⭐ **Backend Specialist**
+⚡ **Scalable System Architect**
+🔐 **Security-Focused Engineer**
+🚀 **Production-Ready Builder**
+🌍 **Open to Remote Opportunities**
 
 </div>
 
@@ -31,7 +34,7 @@
 
 # 🚀 Who I Am
 
-* 🎓 Certified Full-Stack Developer — Hsoub Academy
+* 🎓 Certified Full‑Stack Developer — Hsoub Academy
 * ⚙️ Backend Architecture & System Design
 * 🔐 Security & Performance Optimization
 * 🧠 Clean & Scalable Systems
@@ -46,7 +49,7 @@
 * ⚡ Scalable REST APIs
 * 🗄️ Database architecture
 * 🚀 Performance optimization
-* 🧱 Production-ready systems
+* 🧱 Production‑ready systems
 
 ---
 
@@ -54,10 +57,10 @@
 
 * 🚀 Scalable Backend Systems
 * 🔐 Authentication Systems
-* ⚡ High-Performance APIs
+* ⚡ High‑Performance APIs
 * 🗄️ Database Applications
-* 🌐 Real-time Systems
-* 📦 Production-ready Apps
+* 🌐 Real‑time Systems
+* 📦 Production‑ready Apps
 
 ---
 
@@ -126,7 +129,7 @@
 # 🧱 Engineering Principles
 
 * Clean Architecture
-* Security-first
+* Security‑first
 * Scalable systems
 * Maintainable code
 * Production mindset
