@@ -1,65 +1,34 @@
 <!-- Animated Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=320&section=header&text=Zen%20Allaham&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Zen%20Allaham&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <div align="center">
 
 # 👋 Hi, I'm Zen Allaham
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Scalable+Systems+Architect;Production-Ready+Backend+Developer;Clean+Architecture+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Backend+Engineer;Node.js+%7C+NestJS+Specialist;Scalable+Systems+Architect;Production-Ready+Backend+Developer;Clean+Architecture+Enthusiast" />
 
-### 🚀 Software Engineer | Backend Specialist | System Architect
-
-</div>
-
----
-
-# 🏆 Highlights
-
-<div align="center">
-
-⭐ Backend Specialist
-⚡ Scalable System Architect
-🔐 Security-Focused Engineer
-🚀 Production-Ready Builder
-🌍 Open to Remote Opportunities
+### 🚀 Backend Engineer | System Architect | Scalable Systems Builder
 
 </div>
 
 ---
 
-# 🛠️ Core Technologies
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-</div>
-
----
-
-# 🚀 About Me
+# 🧠 About Me
 
 <table align="center">
 <tr>
 <td width="55%" valign="top">
 
-### 🧠 Backend Engineer Focused On
+### 🚀 Backend Engineer Focused On
 
 * ⚙️ Scalable Backend Architecture
 * 🔐 Security & Performance Optimization
 * 🧱 Clean Architecture Systems
 * 🚀 Production-Ready Applications
-* 🌍 Remote & Freelance Projects
+* 🌍 Remote & Freelance Opportunities
 
-### 🎓 Certifications
+### 🎓 Certification
 
 * 🎓 Certified Full-Stack Developer — Hsoub Academy
 
@@ -67,7 +36,7 @@
 
 <td width="45%" align="center">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 
 </td>
 </tr>
@@ -90,24 +59,39 @@
 
 ---
 
+# 🛠️ Core Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
+
+---
+
 # 🛠️ Tech Stack
-
-## 💻 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,redux,astro" height="60" />
-</p>
 
 ## ⚙️ Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,bun,nest,express,go,php,laravel,mongodb,redis,postgres,mysql" height="60" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,nest,express,go,php,laravel,mongodb,redis,postgres,mysql" height="65" />
+</p>
+
+## 💻 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,redux,astro" height="65" />
 </p>
 
 ## ☁️ DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,sequelize,vercel,cloudflare" height="60" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,prisma,sequelize,vercel,cloudflare" height="65" />
 </p>
 
 ---
@@ -144,27 +128,19 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
 <a href="https://github.com/ZenZN99">
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
 </a>
 
 <a href="mailto:zenallaham09@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="60"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="65"/>
 </a>
 
 <a href="https://www.linkedin.com/in/zen-allaham-789907370/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="65"/>
 </a>
 </p>
 
@@ -186,4 +162,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" />
