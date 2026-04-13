@@ -38,17 +38,17 @@
 </div>
 
 ---
-<div align="center">
-# 🚀 Who I Am
 
+# 🚀 Who I Am
+<div align="center">
 I’m a **Backend Engineer** focused on building **secure, scalable, and production-ready systems**.
+</div>
 
 - ⚙️ Backend Architecture  
 - 🔐 Security & Performance  
 - 🧠 Clean Architecture  
 - 🚀 Production Systems  
 - 🌍 Remote Opportunities  
-</div>
 ---
 
 # 🧠 About Me
