@@ -27,11 +27,13 @@
 
 <div align="center">
 
-### 🚀 Go — High-Performance Backend
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00ADD8,100:007D9C&height=120&section=header&text=Go%20High-Performance%20Backend&fontSize=30&fontColor=ffffff"/>
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=go" height="95"/>
 
-<br/>
+</div>
 
 ### ⚡ Other Core Technologies
 
